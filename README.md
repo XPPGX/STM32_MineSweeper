@@ -1,7 +1,7 @@
 # MineSweeper
  This project is made by STM32f746g_DISCOVERY
 ## Main file
->"main.c" is still needed, but most of the code is not write there, we will write down in "STenWin/APP/*DLG.c".
+>"main.c" is still needed, but most of the code is not write there, we will write it down in "STenWin/APP/*DLG.c".
 <br>The main reason is that we have some pages which we want to change each other.
 <br>This project needs two pages to represent its function, so we have two file named "*DLG.c".
 
